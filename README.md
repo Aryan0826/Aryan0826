@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="![image1](image1)" alt="Profile Spider" width="200"/>
+  <img src="Github-Readme-Profile" alt="Profile Spider" width="200"/>
 </p>
 
 <!-- Badges Section -->
