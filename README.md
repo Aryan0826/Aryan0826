@@ -1,101 +1,71 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="./Github-Readme-Profile.png" alt="Profile Spider" width="200"/>
+  <img src="./Github-Readme-Profile.png" alt="Profile Picture" width="200"/>
 </p>
 
-<!-- Badges Section -->
+<h1 align="center">Hi, I'm Aryan 👋</h1>
+
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <!-- Tools/Frameworks -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <!-- Visitors -->
-  <img src="https://komarev.com/ghpvc/?username=Aryan0826&style=for-the-badge" alt="Profile views"/>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aryan-vekariya-b66663262/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <strong>Computer Science Student @ University of Manitoba</strong><br/>
+  Building impactful software, exploring emerging technologies, and seeking opportunities to contribute to innovative teams.
 </p>
 
 ---
 
-# Hi, I'm Aryan
+## 🚀 Featured Projects
 
-**Computer Science student at the University of Manitoba**  
-
-I enjoy building impactful software, exploring emerging technologies, and solving challenging problems through code. I’m always eager to collaborate, learn, and create projects that blend functionality with creativity.
-
----
-
-## 🛠️ Skills & Technologies
-
-- **Languages:** Python, Java, C++, JavaScript, SQL, Bash, R, HTML/CSS, GDScript  
-- **Frameworks & Tools:** Flask, React, Node.js, PostgreSQL, Git, BeautifulSoup, Postman, Linux  
-- **Core Competencies:** Data Structures & Algorithms, Web Development, API Integration, Problem Solving  
+- **[CyberSentinel](https://github.com/Aryan0826/CyberSentinel)** – Chrome extension + Flask dashboard (VirusTotal API) for real-time link scanning with a privacy-first design.  
+- **[Discord Verification Bot](https://github.com/Aryan0826/BookClub-Bot)** – Automated member verification bot for a university book club, deployed on Railway.  
+- **[HackAJudge](https://github.com/Aryan0826/HackAJudge)** – Real-time hackathon judging and leaderboard platform built with Flask + JavaScript.  
+- **[Cooked](https://github.com/Aryan0826/Cooked)** – Award-winning 2D cooking game (Godot, GDScript) developed in 48 hours for a Game Jam.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Skills
 
-- **CyberSentinel — Dual-Component Security Tool (June 2025)**  
-  Built a Chrome extension and companion web dashboard powered by Python/Flask and the VirusTotal API to scan email and web links in real-time, preserving privacy while labeling links as Safe or Risky. Designed an intuitive UI with hover-over threat details and SSL checks for better user trust.
-
-- **Discord Verification Bot — BookClub UManitoba (April 2025)**  
-  Developed and deployed a verification bot using `discord.py` on Railway to automate member verification and prevent spam bots in a university book club server. Implemented secure, API-driven role assignments and real-time validation workflows.
-
-- **HackAJudge — Hackathon Judging Platform (March 2025)**  
-  Created a real-time judging and leaderboard platform using Flask, Bootstrap, and JavaScript. Enabled judges to rate projects dynamically during hackathons, improving transparency and event flow.
-
-- **Cooked — Game Jam Project (Nov 2024)**  
-  Collaborated with a team of five to design and develop a 2D cooking-themed game using Godot and GDScript within 48 hours. Won the *People’s Choice Award* for engaging gameplay and creativity.
+**Languages:** Python, Java, C++, JavaScript, SQL, HTML/CSS  
+**Frameworks & Tools:** Flask, React, Node.js, Git, PostgreSQL, Linux  
+**Core Areas:** Web Development, API Integration, Data Structures & Algorithms
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Achievements
 
-- **Bootcamp Project Winner:** Innovative and Useful Cybersecurity Tool  
-- **GameJam Winner:** People’s Choice Award for *Cooked*  
-- **Academic Scholarship:** Excellence in Computer Science  
-
----
-
-## 🎯 Interests
-
-- Competitive sports — especially badminton and cricket  
-- Exploring nature and hiking in mountainous regions 🏔️  
-- Game development and experimenting with creative mechanics  
-- Constantly learning new frameworks and improving coding practices  
+- Winner – Cybersecurity Bootcamp Project (*CyberSentinel*)  
+- Winner – Game Jam (*Cooked*, People’s Choice Award)  
+- Academic Scholarship – Excellence in Computer Science  
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Overview
 
-- **Email:** vekariyaaryan100@gmail.com   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0826&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0826&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0826&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🎯 Career Interests
+
+- Actively seeking **Summer 2026 Software Engineering Internships**  
+- Passionate about **backend systems, web development, and API integrations**  
+- Excited to collaborate on **open-source and impactful software projects**
+
+---
+
+## 🌐 Connect
+
+- **Email:** vekariyaaryan100@gmail.com  
 - **GitHub:** [github.com/Aryan0826](https://github.com/Aryan0826)  
 - **LinkedIn:** [aryan-vekariya-b66663262](https://www.linkedin.com/in/aryan-vekariya-b66663262/)
 
 ---
 
-## 💬 Favorite Quote
-
-> “Even if there's just a one percent chance, sometimes that's good enough.”  
-> — Virat Kohli
-
----
-
-<!-- GitHub Stats (optional) -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0826&show_icons=true&theme=radical" alt="Aryan's GitHub Stats"/>
+  <em>Always curious. Always building.</em>
 </p>
-
-
----
-
-_Thanks for visiting my profile! Feel free to explore my projects and connect with me._
