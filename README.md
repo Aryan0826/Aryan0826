@@ -27,7 +27,7 @@
 
 # 👋 Hi, I'm Aryan Vekariya
 
-**Third-year Computer Science (Hons) student at the University of Manitoba**  
+**Computer Science student at the University of Manitoba**  
 Minor in Mathematics
 
 I enjoy building impactful software, exploring emerging technologies, and solving challenging problems through code. I’m always eager to collaborate, learn, and create projects that blend functionality with creativity.
@@ -77,8 +77,7 @@ I enjoy building impactful software, exploring emerging technologies, and solvin
 
 ## 🌐 Connect with Me
 
-- **Email:** vekariyaaryan100@gmail.com  
-- **Phone:** +1 (204) 619‑8239  
+- **Email:** vekariyaaryan100@gmail.com   
 - **GitHub:** [github.com/Aryan0826](https://github.com/Aryan0826)  
 - **LinkedIn:** [aryan-vekariya-b66663262](https://www.linkedin.com/in/aryan-vekariya-b66663262/)
 
@@ -92,11 +91,11 @@ I enjoy building impactful software, exploring emerging technologies, and solvin
 ---
 
 <!-- GitHub Stats (optional) -->
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan0826&show_icons=true&theme=radical" alt="Aryan's GitHub Stats"/>
 </p>
--->
+
 
 ---
 
