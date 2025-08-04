@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-- **[CyberSentinel]([https://github.com/Aryan0826/CyberSentinel](https://github.com/thesmit-del/cyber-sentinel))** – Chrome extension + Flask dashboard (VirusTotal API) for real-time link scanning with a privacy-first design.  
+- **[CyberSentinel](https://github.com/thesmit-del/cyber-sentinel)** – Chrome extension + Flask dashboard (VirusTotal API) for real-time link scanning with a privacy-first design.  
 - **[Discord Verification Bot](https://github.com/Aryan0826/BookClub-Bot)** – Automated member verification bot for a university book club, deployed on Railway.  
 - **[HackAJudge](https://github.com/Aryan0826/HackAJudge)** – Real-time hackathon judging and leaderboard platform built with Flask + JavaScript.  
 - **[Cooked](https://github.com/Aryan0826/Cooked)** – Award-winning 2D cooking game (Godot, GDScript) developed in 48 hours for a Game Jam.
