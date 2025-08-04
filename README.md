@@ -28,7 +28,7 @@
 # 👋 Hi, I'm Aryan Vekariya
 
 **Third-year Computer Science (Hons) student at the University of Manitoba**  
-Minor in Mathematics | GPA: 4.33/4.5  
+Minor in Mathematics
 
 I enjoy building impactful software, exploring emerging technologies, and solving challenging problems through code. I’m always eager to collaborate, learn, and create projects that blend functionality with creativity.
 
@@ -55,23 +55,6 @@ I enjoy building impactful software, exploring emerging technologies, and solvin
 
 - **Cooked — Game Jam Project (Nov 2024)**  
   Collaborated with a team of five to design and develop a 2D cooking-themed game using Godot and GDScript within 48 hours. Won the *People’s Choice Award* for engaging gameplay and creativity.
-
----
-
-## 💼 Work Experience
-
-- **Course Instructor (Part-time) — UCMAS (July 2025 – Present)**  
-  Deliver certified abacus and mental math training to children aged 5–13, guiding them from physical bead manipulation to rapid mental calculations. Part of a global program with 6,000+ centers in 80 countries.
-
----
-
-## 🤝 Volunteer Experience
-
-- **Tech Committee — Computer Science Students’ Association (2024 – Present)**  
-  Contributed to maintaining and enhancing the CSSA website and event-management tools. Assisted with technical planning and implementation of student-focused initiatives.
-
-- **Volunteer — Apar Foundation (Jan 2022 – July 2023)**  
-  Supported rural development programs in Uganda, administering polio vaccines to 300+ children, distributing school supplies to 450+ children, and assisting in borewell construction during health camps.
 
 ---
 
