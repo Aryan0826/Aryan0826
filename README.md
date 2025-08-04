@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="Github-Readme-Profile" alt="Profile Spider" width="200"/>
+  <img src="./Github-Readme-Profile" alt="Profile Spider" width="200"/>
 </p>
 
 <!-- Badges Section -->
@@ -28,7 +28,7 @@
 # 👋 Hi, I'm Aryan Vekariya
 
 **Third-year student at University of Manitoba**  
-Major: _(Fill in from resume, e.g., Computer Science, Software Engineering, etc.)_
+Major: Computer Science
 
 I love building things, solving real-world problems, and collaborating with creative minds. I'm passionate about learning, exploring new technologies, and making an impact through code.
 
