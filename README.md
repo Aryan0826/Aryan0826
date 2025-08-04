@@ -25,10 +25,9 @@
 
 ---
 
-# 👋 Hi, I'm Aryan Vekariya
+# Hi, I'm Aryan
 
 **Computer Science student at the University of Manitoba**  
-Minor in Mathematics
 
 I enjoy building impactful software, exploring emerging technologies, and solving challenging problems through code. I’m always eager to collaborate, learn, and create projects that blend functionality with creativity.
 
