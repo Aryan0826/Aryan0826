@@ -27,47 +27,77 @@
 
 # 👋 Hi, I'm Aryan Vekariya
 
-**Third-year student at University of Manitoba**  
-Major: Computer Science
+**Third-year Computer Science (Hons) student at the University of Manitoba**  
+Minor in Mathematics | GPA: 4.33/4.5  
 
-I love building things, solving real-world problems, and collaborating with creative minds. I'm passionate about learning, exploring new technologies, and making an impact through code.
+I enjoy building impactful software, exploring emerging technologies, and solving challenging problems through code. I’m always eager to collaborate, learn, and create projects that blend functionality with creativity.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, Java, C++, JavaScript, SQL
-- **Tools:** Linux, Git, Visual Studio Code, MySQL
-- **Other:** _(Add any special skills from resume, e.g., Data Structures, Algorithms, Web Development, etc.)_
+- **Languages:** Python, Java, C++, JavaScript, SQL, Bash, R, HTML/CSS, GDScript  
+- **Frameworks & Tools:** Flask, React, Node.js, PostgreSQL, Git, BeautifulSoup, Postman, Linux  
+- **Core Competencies:** Data Structures & Algorithms, Web Development, API Integration, Problem Solving  
 
 ---
 
-## 🚀 Projects & Experience
+## 🚀 Projects
 
-_(Highlight 1-2 favorite projects or internships from your resume here. Include repo links if public.)_
+- **CyberSentinel — Dual-Component Security Tool (June 2025)**  
+  Built a Chrome extension and companion web dashboard powered by Python/Flask and the VirusTotal API to scan email and web links in real-time, preserving privacy while labeling links as Safe or Risky. Designed an intuitive UI with hover-over threat details and SSL checks for better user trust.
 
-- **Project Title:** Short description, technologies used  
-- **Project Title:** Short description, technologies used
+- **Discord Verification Bot — BookClub UManitoba (April 2025)**  
+  Developed and deployed a verification bot using `discord.py` on Railway to automate member verification and prevent spam bots in a university book club server. Implemented secure, API-driven role assignments and real-time validation workflows.
+
+- **HackAJudge — Hackathon Judging Platform (March 2025)**  
+  Created a real-time judging and leaderboard platform using Flask, Bootstrap, and JavaScript. Enabled judges to rate projects dynamically during hackathons, improving transparency and event flow.
+
+- **Cooked — Game Jam Project (Nov 2024)**  
+  Collaborated with a team of five to design and develop a 2D cooking-themed game using Godot and GDScript within 48 hours. Won the *People’s Choice Award* for engaging gameplay and creativity.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💼 Work Experience
 
-_(Add any notable awards, scholarships, or certifications from your resume here.)_
+- **Course Instructor (Part-time) — UCMAS (July 2025 – Present)**  
+  Deliver certified abacus and mental math training to children aged 5–13, guiding them from physical bead manipulation to rapid mental calculations. Part of a global program with 6,000+ centers in 80 countries.
 
 ---
 
-## 🎯 Hobbies & Interests
+## 🤝 Volunteer Experience
 
-- Playing badminton and cricket
-- Traveling, especially to mountains 🏔️
-- Always up for a new adventure!
+- **Tech Committee — Computer Science Students’ Association (2024 – Present)**  
+  Contributed to maintaining and enhancing the CSSA website and event-management tools. Assisted with technical planning and implementation of student-focused initiatives.
+
+- **Volunteer — Apar Foundation (Jan 2022 – July 2023)**  
+  Supported rural development programs in Uganda, administering polio vaccines to 300+ children, distributing school supplies to 450+ children, and assisting in borewell construction during health camps.
+
+---
+
+## 🏆 Awards & Achievements
+
+- **Bootcamp Project Winner:** Innovative and Useful Cybersecurity Tool  
+- **GameJam Winner:** People’s Choice Award for *Cooked*  
+- **Academic Scholarship:** Excellence in Computer Science  
+
+---
+
+## 🎯 Interests
+
+- Competitive sports — especially badminton and cricket  
+- Exploring nature and hiking in mountainous regions 🏔️  
+- Game development and experimenting with creative mechanics  
+- Constantly learning new frameworks and improving coding practices  
 
 ---
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aryan-vekariya-b66663262/)
+- **Email:** vekariyaaryan100@gmail.com  
+- **Phone:** +1 (204) 619‑8239  
+- **GitHub:** [github.com/Aryan0826](https://github.com/Aryan0826)  
+- **LinkedIn:** [aryan-vekariya-b66663262](https://www.linkedin.com/in/aryan-vekariya-b66663262/)
 
 ---
 
@@ -87,4 +117,4 @@ _(Add any notable awards, scholarships, or certifications from your resume here.
 
 ---
 
-_Thanks for visiting! Feel free to check out my projects, connect, or just say hi!_
+_Thanks for visiting my profile! Feel free to explore my projects and connect with me._
